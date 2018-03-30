@@ -1,5 +1,5 @@
-region          = "europe-west2"
-gcp_project     = "sunlit-vortex-184612"
-credentials     = "credentials.json"
+region          = "us-east1"
+gcp_project     = "strong-radius-198616"
+credentials     = "gcp-credentials.json"
 name            = "dev"
 subnet_cidr     = "10.10.0.0/24"
